@@ -4,6 +4,8 @@ use strict;
 use warnings;
 use utf8;
 
+use JSON; # Need the constants
+
 sub new {
 	my $class = shift;
 
