@@ -1,6 +1,7 @@
 -pbp
 -nst
 -b
+-bext='/'
 --ignore-side-comment-lengths
 --converge
 -l=160
